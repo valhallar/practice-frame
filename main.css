@@ -5,3 +5,14 @@ body {
 #navbarSupportedContent {
     color: white;
 }
+
+.jumbotron {
+    background: none
+}
+
+#button-box {
+    width: 200px;
+    border-radius: 0px;
+    height: 60px;
+    padding: 15px;
+}
