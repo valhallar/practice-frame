@@ -1,5 +1,9 @@
+/* body {
+    background: url("https://uicookies.com/demo/theme/frame/img/image_1.jpg");
+}*/
+
 body {
-    background-color: indianred;
+    background: indianred;
 }
 
 #navbarSupportedContent {
@@ -7,7 +11,7 @@ body {
 }
 
 .jumbotron {
-    background: none
+    background: none;
 }
 
 #button-box {
@@ -15,4 +19,9 @@ body {
     border-radius: 0px;
     height: 60px;
     padding: 15px;
+}
+
+#content-icon {
+    font-size: 4em;
+    color: #1a57a5;
 }
