@@ -25,3 +25,7 @@ body {
     font-size: 4em;
     color: #1a57a5;
 }
+
+#content-one {
+    background: white;
+}
