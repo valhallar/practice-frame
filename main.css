@@ -31,3 +31,13 @@ body {
     padding-top: 4em;
     padding-bottom: 4em;
 }
+
+#content-two {
+    background: #D6E6F2;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+img {
+    width: 100%;
+}
