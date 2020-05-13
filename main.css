@@ -56,3 +56,10 @@ img {
     background: white;
     margin-bottom: 2em;
 }
+
+#content-six {
+    background: #1a57a5;
+    padding-top: 4em;
+    padding-bottom: 4em;
+    color: white;
+}
