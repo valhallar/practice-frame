@@ -35,7 +35,8 @@ body {
 }
 
 #content-two,
-#content-four {
+#content-four,
+#content-seven {
     background: #D6E6F2;
     padding-top: 4em;
     padding-bottom: 4em;
