@@ -1,17 +1,30 @@
-/* body {
-    background: url("https://uicookies.com/demo/theme/frame/img/image_1.jpg");
-}*/
-
 body {
-    background: indianred;
+    background: url("https://i.imgur.com/OANBjoo.jpg");
+    background-size: 100%;
 }
 
-#navbarSupportedContent {
+#navigation #navbarSupportedContent .nav-item a {
     color: white;
+    font-size: 1.1em;
+    padding-left: 1.4em;
+}
+
+#navigation #navbarSupportedContent .nav-item a:hover {
+    color: rgba(255,255,255,.7);
+}
+
+.navbar-brand {
+    font-size: 1.75em;
+    font-weight: 600;
 }
 
 .jumbotron {
     background: none;
+}
+
+#header-text {
+    color: white;
+    font-weight: 400;
 }
 
 #button-box {
