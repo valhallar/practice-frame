@@ -39,6 +39,19 @@ body {
     color: #1a57a5;
 }
 
+#content-one h3,
+#content-one p.learn {
+    color: #1a57a5;
+    font-weight: 400;
+}
+
+#content-one p.content-one-text{
+    color: #73767c;
+    line-height: 1.7;
+    padding-right: 3em;
+    font: 1.5em;
+}
+
 #content-one,
 #content-three,
 #content-five {
