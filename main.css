@@ -1,3 +1,9 @@
+/*
+- The button color won't change
+- Can't warp content-one subtitle
+- Can't do dynamic (depending on screen size) padding at "Big Benefit for Business"
+*/
+
 body {
     background: url("https://i.imgur.com/OANBjoo.jpg");
     background-size: 100%;
@@ -40,16 +46,34 @@ body {
 }
 
 #content-one h3,
-#content-one p.learn {
+#content-one p.learn,
+#content-two-text h2 {
     color: #1a57a5;
     font-weight: 400;
 }
 
-#content-one p.content-one-text{
+#content-one p.content-one-text,
+#content-two-text p {
     color: #73767c;
     line-height: 1.7;
     padding-right: 3em;
     font: 1.5em;
+}
+
+#content-one p.content-one-text-left {
+    color: #73767c;
+    line-height: 1.7;
+    padding-left: 3em;
+    font: 1.5em;
+}
+
+.fas {
+    color: #1a57a5;
+    padding-right: 1.1em;
+}
+
+#content-two-text p.icon {
+    margin-bottom: 0.5em;
 }
 
 h1 {
@@ -66,8 +90,14 @@ hr {
     background: #1a57a5;
 }
 
+#content-two-text {
+    padding-left: 7.5em;
+}
 
-
+#content-two-text h2 {
+    font-size: 2.25em;
+}
+ 
 #content-one,
 #content-three,
 #content-five {
