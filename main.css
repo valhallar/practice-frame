@@ -40,6 +40,13 @@ body {
     padding: 15px;
 }
 
+#button-box-small {
+    width: 170px;
+    border-radius: 0px;
+    height: 45px;
+    padding: 5px;
+}
+
 #content-icon {
     font-size: 4em;
     color: #1a57a5;
@@ -76,6 +83,27 @@ body {
     padding-right: 2em;
     padding-left: 2em;
 }
+
+#content-three-two p.content-three-two-first {
+    letter-spacing: 0.2em;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+#content-three-two p.content-three-two-second {
+    color: #73767c;
+    text-align: center;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+#content-three-two h3 {
+    color: #1a57a5;
+    font-weight: 400;
+    text-align: center;
+    font-size: 4em;
+}
+
 
 h1 {
     font-size: 3.5em;
