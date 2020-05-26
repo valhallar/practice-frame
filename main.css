@@ -104,9 +104,37 @@ body {
     font-size: 4em;
 }
 
+#content-four-three img {
+    width: 25%;
+    height: 25%;
+    border-radius: 100%;
+    margin: 5%;
+    margin-bottom: 8%;
+}
+
+#content-four-three p.review {
+    padding-left: 5%;
+    font-style: italic;
+    font-size: 1.1em;
+}
+
+#content-four-three p.star {
+    padding-left: 5%;
+}
+
+#content-four-three p.star i {
+    color: orange;
+    font-size: 0.8em;
+}
+
+#content-four-three p.author {
+    color: #73767c;
+    padding-left: 5%;
+    font-size: 1.1em;
+}
 
 h1 {
-    font-size: 3.5em;
+    font-size: 3.25em;
     font-weight: 400;
 }
 
