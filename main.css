@@ -193,3 +193,9 @@ img {
     padding-bottom: 4em;
     color: white;
 }
+
+#content-five-one h3 {
+    font-size: 1.2em;
+    font-weight: 400;
+    padding-top: 1em;
+}
