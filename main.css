@@ -104,6 +104,11 @@ body {
     font-size: 4em;
 }
 
+#content-six h1 {
+    font-weight: 400;
+    font-size: 2em;
+}
+
 #content-four-three img {
     width: 25%;
     height: 25%;
