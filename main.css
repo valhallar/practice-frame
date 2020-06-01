@@ -204,3 +204,20 @@ img {
     font-weight: 400;
     padding-top: 1em;
 }
+
+h4 {
+    text-transform: capitalize;
+    color: #73767c;
+    font-size: 1.1em;
+    font-weight: 400;
+}
+
+#get-in-touch {
+    border: solid;
+    padding-right: 4em;
+    padding-left: 4em;
+}
+
+#get-in-touch label {
+    padding-bottom: 2em;
+}
