@@ -2,6 +2,7 @@
 - The button color won't change
 - Can't warp content-one subtitle
 - Can't do dynamic (depending on screen size) padding at "Big Benefit for Business"
+- Can't stylized form
 */
 
 body {
@@ -216,6 +217,8 @@ h4 {
     border: solid;
     padding-right: 4em;
     padding-left: 4em;
+    background: white;
+    width: 75%;
 }
 
 #get-in-touch label {
